@@ -79,6 +79,8 @@ CKAN:
        .. parsed-literal::
 
            wget \https://packaging.ckan.org/|latest_package_name_focal_py3|
+           
+       -- you may need to install python3-distutils package
 
      - On Ubuntu 20.04, for Python 2:
 
